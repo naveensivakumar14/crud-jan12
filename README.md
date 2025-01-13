@@ -14,6 +14,7 @@ This project demonstrates a simple **CRUD (Create, Read, Update, Delete)** appli
 
 ## Getting Started 🚀
 
+• clone this repository
 • npm init -y
 • npm install express
 • npm install nodemon
