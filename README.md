@@ -19,3 +19,5 @@ This project demonstrates a simple **CRUD (Create, Read, Update, Delete)** appli
 • npm install express
 • npm install nodemon
 • npm start
+• thunder client
+
