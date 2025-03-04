@@ -1,5 +1,5 @@
 
-# Express.js CRUD Operations 🚀
+# Express.js CRUD Operations
 
 This project demonstrates a simple **CRUD (Create, Read, Update, Delete)** application using **Express.js**. 
 
